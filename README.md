@@ -1,10 +1,9 @@
-# presentacion-
+# Lisandro Nahuel Fernández
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+![mi perro y yo](https://github.com/pdepjuevesTT/2024-presentacion-lifern34/assets/164579897/0ff8ec59-585a-460f-a229-bd667aaaa44e)
 
-Ya saben usar git!
+## En mis tiempos libres me gusta:
+- Hacer dibujos
+- Estudiar algún idioma
+- Practicar el teclado
+- Ver peliculas
