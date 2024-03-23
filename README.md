@@ -7,3 +7,9 @@
 - Estudiar algún idioma
 - Practicar el teclado
 - Ver peliculas
+
+## Peliculas favoritas:
+- La vida es bella
+- Sueño de fuga
+- El pianista
+
